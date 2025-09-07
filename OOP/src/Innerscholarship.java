@@ -1,0 +1,5 @@
+ interface Innerscholarship {
+
+void getScholarship();
+
+} 
